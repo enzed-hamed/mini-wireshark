@@ -1,2 +1,2 @@
 # Mini Wireshark
-This is a simple packet capture software just like wireshark, while supporting very few protocols but offers much better graphic. It also has the option to save captured packets to '.pcap' file which lator can be open using wireshark itself.
+This is a simple packet capture software just like wireshark. While supporting only a few main protocols, it's accurate and offers clean graphical ui. Software has the option to save captured packets in form of `.pcap` files which further can be analysed with wireshark.
